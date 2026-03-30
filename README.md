@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/04112004/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/04112004/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/04112004/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/04112004/LeetCode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,8 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/04112004/LeetCode-Solutions/tree/master/0441-arranging-coins) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/04112004/LeetCode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/04112004/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/04112004/LeetCode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
+## Sorting
+|  |
+| ------- |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/04112004/LeetCode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 <!---LeetCode Topics End-->
