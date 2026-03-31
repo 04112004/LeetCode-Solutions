@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/04112004/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/04112004/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/04112004/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/04112004/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/04112004/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/04112004/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/04112004/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0441-arranging-coins](https://github.com/04112004/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/04112004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/04112004/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/04112004/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
