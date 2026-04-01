@@ -1,22 +1,24 @@
 class Solution {
     public String addBinary(String a, String b) {
-        int i=a.length()-1;
-        int j=b.length() -1;
+        int l = a.length()-1;
+        int r = b.length()-1;
         int carry =0;
+        
         StringBuilder res = new StringBuilder();
-        while(i>=0||j>=0||carry!=0){
+        while(l>=0||r>=0||carry!=0){
             int sum=carry;
-            if(i>=0){
-                sum += a.charAt(i)-'0';//ASCII value;
-                i--;
+            if(l>=0){
+                sum+=a.charAt(l)-'0';
+                l--;
             }
-            if(j>=0){
-                sum += b.charAt(j)-'0';
-                j--;
+            if(r>=0){
+                sum+=b.charAt(r) -'0';
+                r--;
             }
             res.append(sum%2);
             carry=sum/2;
         }
         return res.reverse().toString();
+
     }
 }
