@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/04112004/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/04112004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/04112004/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/04112004/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/04112004/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/04112004/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/04112004/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/04112004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/04112004/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/04112004/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0189-rotate-array](https://github.com/04112004/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/04112004/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/04112004/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1572-matrix-diagonal-sum](https://github.com/04112004/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/04112004/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/04112004/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/04112004/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/04112004/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/04112004/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/04112004/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/04112004/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
