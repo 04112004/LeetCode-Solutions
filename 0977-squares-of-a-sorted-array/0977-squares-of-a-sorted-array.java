@@ -6,14 +6,15 @@ class Solution {
         int j=n-1;
         int k=n-1;
         while(i<=j){
-            int leftsq = nums[i] * nums[i];
-            int rightsq = nums[j] * nums[j];
-            if(leftsq>rightsq){
-                ans[k] = leftsq;
+            int left = nums[i]*nums[i];
+            int right = nums[j]*nums[j];
+            if(left>right){
+                ans[k] = left;
                 i++;
             }
-            else{
-                ans[k] = rightsq;
+            else
+            {
+                ans[k] = right;
                 j--;
             }
             k--;
