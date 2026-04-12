@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/04112004/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/04112004/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/04112004/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/04112004/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/04112004/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/04112004/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/04112004/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/04112004/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/04112004/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/04112004/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/04112004/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/04112004/LeetCode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Greedy
 |  |
