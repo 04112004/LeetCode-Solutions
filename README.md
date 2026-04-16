@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/04112004/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/04112004/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/04112004/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/04112004/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/04112004/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/04112004/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/04112004/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/04112004/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/04112004/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/04112004/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/04112004/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/04112004/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/04112004/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/04112004/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/04112004/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/04112004/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/04112004/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/04112004/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/04112004/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/04112004/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/04112004/LeetCode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Sorting
 |  |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/04112004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/04112004/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0410-split-array-largest-sum](https://github.com/04112004/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/04112004/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
