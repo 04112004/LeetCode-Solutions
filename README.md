@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/04112004/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/04112004/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/04112004/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/04112004/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/04112004/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/04112004/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/04112004/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/04112004/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/04112004/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/04112004/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/04112004/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/04112004/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/04112004/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/04112004/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/04112004/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/04112004/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/04112004/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/04112004/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/04112004/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/04112004/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/04112004/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/04112004/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/04112004/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/04112004/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/04112004/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/04112004/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/04112004/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/04112004/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/04112004/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/04112004/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/04112004/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/04112004/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/04112004/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -171,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/04112004/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/04112004/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
